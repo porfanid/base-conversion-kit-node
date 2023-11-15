@@ -1,6 +1,6 @@
 {
   "name": "base-conversion-kit",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Perform operations with numbers in different bases ",
   "main": "base-conversion-kit.js",
   "scripts": {

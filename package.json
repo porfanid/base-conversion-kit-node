@@ -1,12 +1,16 @@
 {
   "name": "base-conversion-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Perform operations with numbers in different bases ",
   "main": "base-conversion-kit.js",
   "scripts": {
     "test": "npx jest",
     "build": "echo \"Hello world\""
   },
+  "funding": {
+    "type": "individual",
+    "url": "https://ko-fi.com/porfanid"
+  },  
   "keywords": [
     "base",
     "conversion",
